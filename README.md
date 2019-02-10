@@ -1,3 +1,6 @@
+### Points: 1.5
+### KEY: Ex 1 and 2 great except no comments and missing ex 3
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
